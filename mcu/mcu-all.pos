@@ -1,0 +1,35 @@
+### Footprint positions - created on 2026-06-13T13:31:09 ###
+### Printed by KiCad version 10.0.3
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                  Package                                             PosX       PosY       Rot  Side
+BT1       Battery              PinHeader_1x02_P2.54mm_Vertical                 131.5720   -86.6090    0.0000  top
+C1        0.1µF                C_0805_2012Metric                               148.3360   -77.2160    0.0000  top
+C2        22pF                 C_0805_2012Metric                               152.4000   -77.2160    0.0000  top
+C3        22pF                 C_0805_2012Metric                               164.0840   -94.4880  180.0000  top
+C4        0.1µF                C_0805_2012Metric                               164.0840   -98.0440  180.0000  top
+C5        100nF                C_0805_2012Metric                               156.9720   -77.2160    0.0000  top
+D1        LED                  LED_0805_2012Metric                             168.1480   -77.2160    0.0000  top
+D2        LED                  LED_0805_2012Metric                             164.0840   -77.2160    0.0000  top
+H1        MountingHole         MountingHole_2.1mm                              130.8100   -77.2160    0.0000  top
+H2        MountingHole         MountingHole_2.1mm                              176.0000   -77.2000    0.0000  top
+H3        MountingHole         MountingHole_2.1mm                              130.8100  -106.1720    0.0000  top
+H4        MountingHole         MountingHole_2.1mm                              176.0220  -106.2990    0.0000  top
+J1        Conn_01x04_Pin       PinHeader_1x04_P2.54mm_Vertical                 175.2600   -92.2020    0.0000  top
+J2        Conn_01x04_Pin       PinHeader_1x04_P2.54mm_Vertical                 160.7820  -106.1720   90.0000  top
+J3        Conn_01x09_Pin       PinHeader_1x09_P2.54mm_Vertical                 135.6360  -106.1720   90.0000  top
+J4        Conn_02x03_Odd_Even  PinHeader_2x03_P2.54mm_Vertical                 172.9690   -82.2960    0.0000  top
+R1        10K                  R_0805_2012Metric                               137.1600  -100.5840    0.0000  top
+R2        10K                  R_0805_2012Metric                               142.7480  -100.5840  180.0000  top
+R3        4.7K                 R_0805_2012Metric                               164.0840   -85.8520  180.0000  top
+R4        330                  R_0805_2012Metric                               164.0840   -81.2800    0.0000  top
+R5        10K                  R_0805_2012Metric                               168.1480   -85.8520    0.0000  top
+R6        330                  R_0805_2012Metric                               168.1480   -81.2800    0.0000  top
+R7        4.7K                 R_0805_2012Metric                               164.0840   -90.4240  180.0000  top
+U1        24LC1025             SOIC-8_5.3x5.3mm_P1.27mm                        139.7000   -86.3600    0.0000  top
+U2        24LC1025             SOIC-8_5.3x5.3mm_P1.27mm                        139.7000   -78.7400    0.0000  top
+U3        ds1337s+             21-0041B_8_MXM                                  139.7000   -93.4720    0.0000  top
+U4        ATmega328P           QFP80P900X900X120-32N                           153.4160   -88.3920    0.0000  top
+Y1        32.768_KHz           Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering   131.5720   -97.0280   90.0000  top
+Y2        16MHz                Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering   153.4160   -98.0440    0.0000  top
+## End
